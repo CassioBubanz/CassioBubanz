@@ -19,26 +19,27 @@ Atualmente, estou me aprofundando em **desenvolvimento full-stack** e explorando
    - **ReactJS**: Construção de sites responsivos utilizando tecnologias como **Styled Components** e **Axios**.
    - **VueJS**: Conhecimento em VueJS para criação de layouts web com qualidade e performance.
 
-2. **Desenvolvimento Back-end**  
+2. **Desenvolvimento Back-end**
+   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
    - **Node.js**: Desenvolvimento de APIs RESTful, sistemas de gerenciamento de banco de dados, integração de serviços externos e criação de funcionalidades server-side.
    - **Express.js**: Framework leve e poderoso para construir aplicações web.
    - **Django**: Desenvolvimento de aplicações web usando Django. Criação de APIs, gerenciamento de autenticação e integração de bancos de dados.
    - **Firebase**: Utilização de Firebase para autenticação de usuários, banco de dados em tempo real (**Firestore**), armazenamento de arquivos, e deploy de aplicações web.
 
-3. **Design e Estilização**  
+4. **Design e Estilização**  
    - **Styled Components**: Experiência com a biblioteca para estilização de componentes no React Native e ReactJS.
    - **Design Responsivo**: Implementação de layouts responsivos e otimizados para diferentes dispositivos.
 
-4. **Banco de Dados**  
+5. **Banco de Dados**  
    - **SQL (MySQL, PostgreSQL)**: Criação e gerenciamento de esquemas, tabelas e queries.
    - **Firebase Firestore**: Banco de dados em tempo real para construção de aplicações web e móveis com sincronização contínua.
 
-5. **Ferramentas e Tecnologias**  
+6. **Ferramentas e Tecnologias**  
    - **Git/GitHub**: Controle de versão, colaboração em projetos de software e integração contínua.
    - **Testing (Jest, Cypress)**: Implementação de testes unitários e de integração.
    - **Docker**: Criação de containers para ambientes isolados de desenvolvimento.
 
-6. **Soft Skills**  
+7. **Soft Skills**  
    - **Trabalho em Equipe**: Colaboração eficaz com equipes de desenvolvimento e design.
    - **Comunicação Interpessoal**: Capacidade de explicar conceitos técnicos de maneira acessível.
    - **Gestão de Tempo**: Organizado e eficiente, capaz de gerenciar múltiplos projetos simultaneamente.
