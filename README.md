@@ -3,8 +3,6 @@
 🌟 **Desenvolvedor de Software | Freelancer | Estudante de Tecnologia**  
 📍 Baseado em: Teresina-PI, Brasil | 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
-![Build Status](https://img.shields.io/github/workflow/status/CassioBubanz/StudyFocus/CI)
-
 ---
 
 ### **Sobre mim**  
@@ -71,7 +69,7 @@ Portfólio pessoal feito com **ReactJS**, exibindo projetos, habilidades e exper
 
 ### **💬 Entre em Contato**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/francisco-cassiano)  
-- 📫 **Email**: franciscocassiano@gmail.com  
+- 📫 **Email**: fcassiano2013@gmail.com  
 
 ---
 
