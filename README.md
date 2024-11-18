@@ -3,6 +3,8 @@
 🌟 **Desenvolvedor de Software | Freelancer | Estudante de Tecnologia**  
 📍 Baseado em: Teresina-PI, Brasil | 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
+![Build Status](https://img.shields.io/github/workflow/status/CassioBubanz/StudyFocus/CI)
+
 ---
 
 ### **Sobre mim**  
@@ -20,7 +22,6 @@ Atualmente, estou me aprofundando em **desenvolvimento full-stack** e explorando
    - **VueJS**: Conhecimento em VueJS para criação de layouts web com qualidade e performance.
 
 2. **Desenvolvimento Back-end**
-   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
    - **Node.js**: Desenvolvimento de APIs RESTful, sistemas de gerenciamento de banco de dados, integração de serviços externos e criação de funcionalidades server-side.
    - **Express.js**: Framework leve e poderoso para construir aplicações web.
    - **Django**: Desenvolvimento de aplicações web usando Django. Criação de APIs, gerenciamento de autenticação e integração de bancos de dados.
